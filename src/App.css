@@ -1,0 +1,22 @@
+.mainContainer {
+    position: relative;
+}
+
+.mainContainer>div:first-child {}
+
+.header {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    width: 40%;
+    z-index: 999;
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.header>div {
+    width: 100%;
+    background-color: white;
+
+}

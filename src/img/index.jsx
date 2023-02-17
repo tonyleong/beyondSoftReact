@@ -1,0 +1,1 @@
+export { default as BeyondSoftLOGO } from './logo.jpeg'
